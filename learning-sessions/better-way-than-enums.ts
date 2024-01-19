@@ -1,5 +1,5 @@
 // enums are not good practice anymore to use
-// this is the way how they should work
+// this is the prefered solution
 const myColor = {
     BLUE: "BLUE",
     YELLOW: "YELLOW",
