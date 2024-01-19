@@ -7,3 +7,4 @@ This is a typescript training project. Learning advanced typescript mechanics li
 Sources:
 - https://www.youtube.com/watch?v=dLPgQRbVquo&t=509s 
 - https://www.youtube.com/watch?v=q5DFpyIN5Xs&t=232s
+- https://github.com/avan2s/debates-stream
