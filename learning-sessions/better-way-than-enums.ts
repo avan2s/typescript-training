@@ -28,6 +28,7 @@ const blue: MyColor = 'BLUE';
 // get a value by using the constant
 const green = myColor.GREEN;
 
+// With that you can do, what you could not with enums
 // iterate over each color
 Object.keys(myColor).forEach(c => {
     console.log(c);
@@ -39,7 +40,7 @@ const isGreenOrYellow = (c: MyColor) => {
     return c === 'GREEN' || c === myColor.YELLOW;
 }
 
-// you can also now compare strings with an enum
+// you can also now compare strings with this const
 const isStringAColor = (s: string) => {
     return Object.values(myColor).some(c => c === s);
 }
