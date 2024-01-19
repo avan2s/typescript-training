@@ -1,0 +1,1 @@
+This folder contains artifacts that can be reused in other projects.
